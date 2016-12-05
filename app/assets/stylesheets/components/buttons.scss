@@ -1,20 +1,28 @@
-.button{
-  font-family: 'Rochester', cursive;
-  font-size: 1.3em;
+.button{  font-family: 'Rochester', cursive;
   text-decoration: none;
   color: white;
-  text-align: center;
   justify-content: flex-end;
   background-color:black;
   border-radius:3px;
   padding: 10px;
   background-origin: content-box;
-  flex-grow: 1;
+  flex-grow: 0;
   flex-basis: 0;
   position: relative;
+
+  font-family: 'Rochester', cursive;
+  text-decoration: none;
+  color: white;
+  justify-content: flex-end;
+  background-color: black;
+  border-radius: 3px;
+  padding: 10px;
+  background-origin: content-box;
+  position: relative;
+  flex-direction: column;
   &--large{
     font-size: 2em;
-    }
+  }
   &--small{
     font-size: 1em;
   }

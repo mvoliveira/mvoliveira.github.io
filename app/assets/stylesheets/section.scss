@@ -32,11 +32,11 @@ $cor-padrao: #000000;
   height: 50vh;
   width: 100%;
 }
-.Content-wraper{
+.Content-wellcome{
   flex-direction: column;
   display: flex;
   align-items: center;
-  height: 50vh;
+  height: 100vh;
   width: 100%;
   text-align: center;
 }
@@ -73,17 +73,6 @@ $cor-padrao: #000000;
 
 }
 
-.name{
-  z-index: 3;
-  padding-left: 30px;
-  font-size: 3em;
-  color:#FFFFFF;
-  text-shadow: 1px 1px #c1c1c6;
-  // font-family: 'Aref Ruqaa', serif;
-  font-family: 'Rochester', cursive;
-  flex-grow: 2;
-}
-
 .avatar{
   z-index: 2;
   display: flex;
@@ -102,6 +91,7 @@ $cor-padrao: #000000;
   height: 50vh;
 
 }
+
 .about-image{
   display: flex;
   justify-content: center;

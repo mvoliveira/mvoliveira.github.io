@@ -23,4 +23,14 @@
       padding: 10px, 10px, 10px, 10px;
     }
   }
+  &--name{
+    text-align: left;
+    z-index: 3;
+    padding-left: 30px;
+    font-size: 3em;
+    color:#FFFFFF;
+    text-shadow: 1px 1px #c1c1c6;
+    font-family: 'Rochester', cursive;
+    flex-grow: 2;
+  }
 }
