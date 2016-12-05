@@ -11,10 +11,10 @@
   background-origin: content-box;
   flex-grow: 1;
   flex-basis: 0;
-  &-large{
+  &--large{
     font-size: 2em;
     }
-  &-small{
+  &--small{
     font-size: 1em;
   }
 }
