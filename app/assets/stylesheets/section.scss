@@ -14,7 +14,7 @@ $cor-padrao: #000000;
   margin-bottom: 7vh;
 }
 
-.header{
+.Header{
   opacity: 1;
   z-index: 2;
   align-items: center;
@@ -64,7 +64,7 @@ $cor-padrao: #000000;
 
 }
 
-.links-a{
+.Links-A{
   z-index: 3;
   font-family: 'Rochester', cursive;
   font-size: 2em;
@@ -76,7 +76,7 @@ $cor-padrao: #000000;
 
 
 
-.about {
+.About {
   justify-content: space-between;
   width: 50%;
   flex-grow: 1;
@@ -86,7 +86,7 @@ $cor-padrao: #000000;
 }
 
 
-.about-image{
+.About-Image{
   display: flex;
   justify-content: center;
   width: 50%;

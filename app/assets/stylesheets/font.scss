@@ -1,10 +1,10 @@
-.font{
+.Font{
   line-height: 1.7em;
   text-align: center;
   font-size: 1.2em;
   display: flex;
 
-  &--title{
+  &--Title{
     font-family: 'Rochester', cursive;
     font-size: 4em;
     // color:#FFFFFF;
@@ -13,17 +13,17 @@
     align-items:center;
   }
 
-  &--subtitle{
+  &--Subtitle{
     font-family: 'Rochester', cursive;
     font-size: 3em;
     align-items:center;
     justify-content: center;
     position: relative;
-    &-features{
+    &-Features{
       padding: 10px, 10px, 10px, 10px;
     }
   }
-  &--name{
+  &--Name{
     text-align: left;
     z-index: 3;
     padding-left: 30px;
