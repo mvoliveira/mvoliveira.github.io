@@ -1,0 +1,43 @@
+.font-title{
+  display: flex;
+  padding-left: 30px;
+  font-size: 4em;
+  // color:#FFFFFF;
+  text-shadow: 1px 1px gray;
+  font-family: 'Rochester', cursive;
+  margin-bottom: 2vh;
+  position: relative;
+  align-items:center;
+
+}
+
+.font-subtitle{
+  font-size: 3em;
+  font-family: 'Rochester', cursive;
+  width: 50%;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  position: relative;
+  padding: 20px;
+}
+
+.font-text-title{
+  font-size: 3em;
+  font-family: 'Rochester', cursive;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 20px;
+  margin-bottom: 15vh;
+}
+.font-text{
+  line-height: 1.7em;
+  text-align: center;
+  font-size: 1.2em;
+
+
+
+}
