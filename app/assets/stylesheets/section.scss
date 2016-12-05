@@ -42,11 +42,12 @@ $cor-padrao: #000000;
 }
 .Content-about{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100%;
+  // width: 100%;
 }
+
 .Content-footer{
 
   display: flex;
@@ -73,24 +74,17 @@ $cor-padrao: #000000;
 
 }
 
-.avatar{
-  z-index: 2;
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  position: absolute;
-  bottom: 75px;
-}
+
 
 .about {
   justify-content: space-between;
   width: 50%;
   flex-grow: 1;
   display: flex;
-  padding: 35px;
   height: 50vh;
 
 }
+
 
 .about-image{
   display: flex;
