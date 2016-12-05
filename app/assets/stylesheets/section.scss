@@ -3,36 +3,6 @@ $cor-padrao: #000000;
 
 
 
-.Content{
-  // padding-top: 70px;
-  flex-direction: column;
-  display: flex;
-  align-items: center;
-  height: 50vh;
-  width: 100%;
-}
-.Content-wellcome{
-  flex-direction: column;
-  display: flex;
-  align-items: center;
-  height: 100vh;
-  width: 100%;
-  text-align: center;
-}
-.Content-about{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  // width: 100%;
-}
-
-.Content-footer{
-
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-}
 
 
 .About {
