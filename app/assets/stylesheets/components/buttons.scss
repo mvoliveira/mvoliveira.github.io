@@ -10,9 +10,12 @@
   position: relative;
   flex-direction: column;
   &--Large{
+    display: inline-block;
+    width: 13vw;
     font-size: 2em;
   }
   &--Small{
+    width: 5vw;
     font-size: 1em;
   }
 }
