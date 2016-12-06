@@ -2,9 +2,9 @@
   line-height: 1.7em;
   text-align: center;
   font-size: 1.2em;
+  font-family: 'Rochester', cursive;
 
   &--Title{
-    font-family: 'Rochester', cursive;
     font-size: 4em;
     // color:#FFFFFF;
     text-shadow: 1px 1px gray;
@@ -13,7 +13,6 @@
   }
 
   &--Subtitle{
-    font-family: 'Rochester', cursive;
     font-size: 3em;
     align-items:center;
     justify-content: center;
@@ -29,8 +28,6 @@
     font-size: 3em;
     color:#FFFFFF;
     text-shadow: 1px 1px #c1c1c6;
-    // font-family: 'Aref Ruqaa', serif;
-    font-family: 'Rochester', cursive;
     flex-grow: 2;
   }
 }
